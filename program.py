@@ -1,3 +1,4 @@
+####Defining the function ####
 def fibonacci(n):
     a = 0
     b = 1
@@ -27,6 +28,12 @@ try:
 # if user enters the string then it should raise an exception
 except Exception as e:
     print("can't convert string to integer")
+    
+    
+### to run program----python program.py###
+
+
+
     
     
 
